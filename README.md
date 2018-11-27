@@ -14,5 +14,5 @@ Python script / utility to grow LinkedIn network rapidly. Add 100's of connectio
 9]Click My Network > Click More Options > Click invite by email envelope option. <br>
 10]Copy and Paste the content of output.txt in 'Enter email addresses here, separated by comma' section/area <br>
 11]Click continue. <br>
-By following 2-10 steps you can send 200 invites per csv file as long as LinkedIn allows you. <br>
+By following 2-11 steps you can send 200 invites per csv file as long as LinkedIn allows you. <br>
 
