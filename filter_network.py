@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 '''
-Watch this video on youtube
 Signup on www.toplinked.com
 Download - http://www.toplinked.com/invitemelist/?p=freedownload
 '''
